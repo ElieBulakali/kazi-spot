@@ -8,18 +8,18 @@ export default function Home() {
     <section className='home'>
       <div className='hero reveal'>
         <h1>Kazi-Spot</h1>
-        <p className='lead'>Snack • Web Development • Digital Marketing • Consulting & HR</p>
-        <p>Un espace hybride pour manger, travailler et faire croître votre entreprise.</p>
+        <p className='lead'>Web Development • Digital Marketing • Consulting & HR</p>
+        <p>Un espace hybride pour travailler et faire croître votre entreprise.</p>
       </div>
 
       <div className='grid reveal'>
         <div className='card'>
-          <h3>Snack & Café</h3>
-          <p>Menu rapide, boissons fraîches et espace convivial pour travailler.</p>
+          <h3>Web Development</h3>
+          <p>Sites React, applications web performantes et architecture moderne.</p>
         </div>
         <div className='card'>
-          <h3>Web & Digital</h3>
-          <p>Sites React, branding, visuels et campagnes performantes.</p>
+          <h3>Digital Marketing</h3>
+          <p>Branding, visuels, stratégie digitale et campagnes performantes.</p>
         </div>
         <div className='card'>
           <h3>Consulting & RH</h3>

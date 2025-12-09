@@ -12,13 +12,12 @@ const Nav = () => {
           <img className='brand-logo' src={logo} alt='Kazi-Spot Logo' />
           <div className='brand-text'>
             <span className='brand-name'>Kazi-Spot</span>
-            <small className='brand-tag'>Eat • Work • Create</small>
+            <small className='brand-tag'>Web • Work • Create</small>
           </div>
         </div>
         <nav className='links'>
           <Link className={loc.pathname === '/' ? 'active' : ''} to='/'>Home</Link>
           <Link className={loc.pathname === '/services' ? 'active' : ''} to='/services'>Services</Link>
-          <Link className={loc.pathname === '/menu' ? 'active' : ''} to='/menu'>Menu</Link>
           <Link className={loc.pathname === '/hr' ? 'active' : ''} to='/hr'>HR</Link>
           <Link className={loc.pathname === '/contact' ? 'active' : ''} to='/contact'>Contact</Link>
         </nav>
