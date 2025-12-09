@@ -16,9 +16,9 @@ body{background:var(--bg);color:var(--navy);line-height:1.5}
 .brand-tag{display:block;font-size:11px;color:var(--muted)}
 .links a{margin-left:18px;text-decoration:none;color:var(--navy);font-weight:600}
 .links a.active{color:var(--yellow)}
-.hero{padding:40px;background:linear-gradient(90deg, rgba(15,35,64,0.04), rgba(249,191,59,0.03));border-radius:8px;text-align:center}
-.hero h1{font-size:36px;margin-bottom:8px}
-.lead{color:var(--muted);font-size:18px;margin-bottom:12px}
+.hero{padding:40px;background:linear-gradient(90deg, rgba(15,35,64,0.7), rgba(249,191,59,0.7)),url('https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=600&fit=crop');background-size:cover;background-position:center;background-attachment:fixed;border-radius:8px;text-align:center;color:white}
+.hero h1{font-size:36px;margin-bottom:8px;color:white}
+.lead{color:white;font-size:18px;margin-bottom:12px}
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:18px}
 .card{background:yellow;padding:18px;border-radius:8px;box-shadow:0 2px 6px rgba(15,35,64,0.04)}
 .page{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(15,35,64,0.04)}
