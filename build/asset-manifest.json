@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.672e4469.css",
+    "main.js": "/static/js/main.cb8f1f1f.js",
+    "static/media/logo-kazispot.png": "/static/media/logo-kazispot.3bff36ab8d12217a09fd.png",
+    "static/media/Div1.jpg": "/static/media/Div1.adbd1710e78f29a10723.jpg",
+    "index.html": "/index.html",
+    "main.672e4469.css.map": "/static/css/main.672e4469.css.map",
+    "main.cb8f1f1f.js.map": "/static/js/main.cb8f1f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672e4469.css",
+    "static/js/main.cb8f1f1f.js"
+  ]
+}
